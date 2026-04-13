@@ -1,5 +1,5 @@
 ---
-name: kokomoon-workflow
+name: copilot-unlimit-workflow
 description: >-
   Interactive workflow skill for AI agents. Enforces a structured design-review-execute loop:
   the agent must analyze the user's request, produce a detailed plan with a todo list,
@@ -10,7 +10,7 @@ description: >-
 license: Apache-2.0
 compatibility: Designed for VS Code Copilot, Claude Code, and compatible Agent Skills clients.
 metadata:
-  author: kokomoon
+  author: $workspace
   version: "1.0.0"
 ---
 
