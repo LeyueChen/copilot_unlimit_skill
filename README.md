@@ -1,2 +1,2 @@
 # copilot_unlimit_skill
-make github copilot great again
+make github copilot unlimit in one chat
