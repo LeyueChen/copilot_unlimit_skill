@@ -1,4 +1,4 @@
-# kokomoon-workflow
+# copilot-unlimit-workflow
 
 An interactive workflow skill for AI agents that enforces structured design-review-execute loops with mandatory user confirmation at every stage.
 
