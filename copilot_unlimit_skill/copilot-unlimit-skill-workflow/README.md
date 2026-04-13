@@ -18,7 +18,7 @@ The key enforcement: the agent **cannot** end the conversation without explicit 
 
 ### VS Code (Copilot)
 
-Copy the `kokomoon-workflow/` directory to one of:
+Copy the `copilot-unlimit-skill-workflow/` directory to one of:
 - `.github/skills/` (project-level)
 - `~/.copilot/skills/` (user-level)
 
